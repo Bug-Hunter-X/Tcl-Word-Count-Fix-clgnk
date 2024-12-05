@@ -1,0 +1,2 @@
+# Tcl Word Count Bug
+This repository demonstrates a common error in Tcl when counting words in a string that contains multiple spaces.  The `split` command's behavior with multiple delimiters is the root cause.  A corrected version is provided to handle this case effectively.
